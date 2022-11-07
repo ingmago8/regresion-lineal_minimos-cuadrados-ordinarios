@@ -1,1 +1,1 @@
-# regresion-lineal_minimos-cuadrados-ordinarios
+# regresion lineal y minimos cuadrados ordinarios
